@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tadtef
 - 👀 I’m interested in front and back end webdevelopent
-- 🌱 I’m currently learning front end webdev
+- 🌱 I’m currently learning front end webdevlopment
 - 💞️ I’m looking to collaborate on a group project
 - 📫 How to reach me tadtef22@gmail.com
 
